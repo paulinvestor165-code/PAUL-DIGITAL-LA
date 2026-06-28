@@ -1,0 +1,6 @@
+{
+  "name": "Paul Digital Labs",
+  "description": "A premium, AI-powered international digital agency and automation platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
